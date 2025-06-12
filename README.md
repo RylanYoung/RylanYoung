@@ -15,7 +15,7 @@ Motivated and passionate about cybersecurity, I am seeking an entry-level role a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network security                              |
+| Network security                              | Cisco lab
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
