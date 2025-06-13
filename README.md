@@ -1,12 +1,9 @@
 # Hello, I'm Rylan Young
 <a href="www.linkedin.com/in/rylanyoung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Recent graduate and small business owner pursuing a career in cybersecurity, passionate about using technical and problem-solving skills to build projects and break into the industry.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Motivated and passionate about cybersecurity, I am seeking an entry-level role as a SOC Analyst, Cybersecurity Analyst, or IT Help Desk Technician to gain hands-on experience and contribute to protecting digital systems. Eager to apply my foundational knowledge, technical skills, and problem-solving mindset in a real-world environment.
 
