@@ -1,8 +1,7 @@
 # Hello, I'm Rylan Young
 <a href="www.linkedin.com/in/rylanyoung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent graduate and small business owner pursuing a career in cybersecurity, passionate about using technical and problem-solving skills to build projects and break into the industry.
-
+Aspiring Cybersecurity & IT Professional | Career-changer with hands-on training in network security, incident response, and system administration. Certified in CompTIA Network+ and Security+, with ongoing studies in CySA+, Azure Fundamentals, CISSP, and CCNA. Passionate about building secure systems, solving problems, and growing technical expertise through projects and continuous learning
 ## Objective
 
 Motivated and passionate about cybersecurity, I am seeking an entry-level role as a SOC Analyst, Cybersecurity Analyst, or IT Help Desk Technician to gain hands-on experience and contribute to protecting digital systems. Eager to apply my foundational knowledge, technical skills, and problem-solving mindset in a real-world environment.
