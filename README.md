@@ -46,13 +46,9 @@ Motivated and passionate about cybersecurity, I am seeking an entry-level role a
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 <div>
-
+    
 [![Security+ Badge](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/6e52a0a1-4edb-4aca-b31a-5efd65956d5e)
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+[![Network+ Badge](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/e64d280c-61ec-4231-b681-782bca5884b6)
 </div>
 
 ## Projects
