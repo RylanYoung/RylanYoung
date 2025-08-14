@@ -1,7 +1,6 @@
 # Hello, I'm Rylan Young
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rylanyoung)
-<a href="www.linkedin.com/in/rylanyoung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Aspiring Cybersecurity & IT Professional | Career-changer with hands-on training in network security, incident response, and system administration. Certified in CompTIA Network+ and Security+, with ongoing studies in CySA+, Azure Fundamentals, CISSP, and CCNA. Passionate about building secure systems, solving problems, and growing technical expertise through projects and continuous learning
 ## Objective
