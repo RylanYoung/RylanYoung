@@ -8,7 +8,7 @@ Aspiring Cybersecurity & IT Professional | Career-changer with hands-on training
 Motivated and passionate about cybersecurity, I am seeking an entry-level role as a SOC Analyst, Cybersecurity Analyst, or IT Help Desk Technician to gain hands-on experience and contribute to protecting digital systems. Eager to apply my foundational knowledge, technical skills, and problem-solving mindset in a real-world environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
