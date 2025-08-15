@@ -41,6 +41,7 @@ Motivated and passionate about cybersecurity, I am seeking an entry-level role a
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-CC0000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA1E2?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
