@@ -28,6 +28,7 @@ Seeking an entry-level IT Help Desk or Cybersecurity/SOC analyst role to apply h
     
 [![Security+ Badge](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/6e52a0a1-4edb-4aca-b31a-5efd65956d5e)
 [![Network+ Badge](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/e64d280c-61ec-4231-b681-782bca5884b6)
+[![Azure Fundamentals Badge](https://img.shields.io/badge/-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/RylanYoung-9776/A20E50F870EED257?sharingId=ECFF44F79006BF64)
 </div>
 
 ## Projects
@@ -40,7 +41,8 @@ Seeking an entry-level IT Help Desk or Cybersecurity/SOC analyst role to apply h
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Nmap-CC0000?&style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap_Logo.svg&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Nmap-CC0000?&style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap_Logo.svg&logoColor=white" 
+       />
     
 
 </div>
