@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rylanyoung)
 
-Aspiring IT and CyberSecuirty professional | CompTIA Network+, Security+, and Microsoft Azure Fundamentals certifications, hands-on experience in help desk support, system administration, SIEM, and incident response. Passionate about troubleshooting, securing systems, and growing in both IT support and cybersecurity.
+IT and CyberSecuirty professional | CompTIA Network+, Security+, and Microsoft Azure Fundamentals certifications, hands-on experience in help desk support, system administration, SIEM, and incident response. Passionate about troubleshooting, securing systems, and growing in both IT support and cybersecurity.
 ## Objective
 
 Seeking an entry-level IT Help Desk or Cybersecurity/SOC analyst role to apply hands-on technical and security skills while continuing to grow.
