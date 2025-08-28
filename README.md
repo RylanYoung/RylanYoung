@@ -5,7 +5,7 @@
 Aspiring IT and CyberSecuirty professional | CompTIA Network+, Security+, and Microsoft Azure Fundamentals certifications, hands-on experience in help desk support, system administration, SIEM, and incident response. Passionate about troubleshooting, securing systems, and growing in both IT support and cybersecurity.
 ## Objective
 
-Motivated and passionate about IT and cybersecurity, I am seeking an entry-level role as a SOC Analyst, Cybersecurity Analyst, or IT Help Desk Technician to gain hands-on experience and contribute to protecting digital systems. Eager to apply my foundational knowledge, technical skills, and problem-solving mindset in a real-world environment.
+Seeking an entry-level IT Help Desk or Cybersecurity/SOC analyst role to apply hands-on technical and security skills while continuing to grow.
 
 ## Skills
 
