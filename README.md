@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rylanyoung)
 
-Aspiring Cybersecurity & IT Professional | Career-changer with hands-on training in network security, incident response, and system administration. Certified in CompTIA Network+, Security+ and Azure Fundamentals, with ongoing studies in CySA+, CISSP, and CCNA. Passionate about building secure systems, solving problems, and growing technical expertise through projects and continuous learning
+Aspiring IT and CyberSecuirty professional | CompTIA Network+, Security+, and Microsoft Azure Fundamentals certifications, hands-on experience in help desk support, system administration, SIEM, and incident response. Passionate about troubleshooting, securing systems, and growing in both IT support and cybersecurity.
 ## Objective
 
 Motivated and passionate about IT and cybersecurity, I am seeking an entry-level role as a SOC Analyst, Cybersecurity Analyst, or IT Help Desk Technician to gain hands-on experience and contribute to protecting digital systems. Eager to apply my foundational knowledge, technical skills, and problem-solving mindset in a real-world environment.
